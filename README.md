@@ -62,16 +62,6 @@
 
 ---
 
-### 📊 &nbsp;Signals
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kreipikc&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=8957E6&area=true" width="94%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌐 &nbsp;Elsewhere
