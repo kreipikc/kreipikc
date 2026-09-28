@@ -34,7 +34,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,go,cs,cpp,kotlin,js,java,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,cs,cpp,js,java,lua&theme=dark" />
 
 **Backend & Data**
 
