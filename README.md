@@ -8,23 +8,12 @@
 
 <br/>
 
-`🍞` &nbsp;•&nbsp; `backend` &nbsp;•&nbsp; `always learning`
+`🍞` &nbsp;•&nbsp; `whoami` &nbsp;•&nbsp; `always learning`
 
 </div>
-
----
 
 <div align="center">
 
-### ✦ &nbsp;whoami
-
-*Somewhere between a request and a response there is a system —*
-*and I like taking it apart to see how it breathes.*
-
-*Servers, protocols, queues, indexes, ciphers.*
-*Small pieces that quietly hold big things together.*
-
-</div>
 
 ---
 
